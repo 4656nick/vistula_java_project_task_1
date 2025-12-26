@@ -28,3 +28,5 @@ or run the main class from your IDE (e.g. IntelliJ IDEA)
 ```bash
 curl --silent http://localhost:8080/greeting?name=Alex
 ```
+
+![Create Product Swagger](screenshots/greeting.png)
